@@ -35,7 +35,7 @@ The workflow diagram below explains the step-by-step process from user input to 
    - Provides error handling for file operations
   
 
-### Workflow Diagram
+### Flowchart Diagram
 The flowchart below illustrates how different components of the application interact to provide spell checking and word suggestions.
 
 ![Flowchart](https://github.com/Maryam-Amir00/GUI_PROJECT_SPELL_CHECKER/blob/main/Images/FlowChart.png)
