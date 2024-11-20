@@ -14,7 +14,7 @@ A spell checker and word suggestion application built using Qt framework in C++.
 ## Workflow
 The workflow diagram below explains the step-by-step process from user input to generating suggestions and verifying spelling.
 
-![Workflow Diagram](assets/images/workflow-diagram.png "Application Workflow")
+![Workflow Diagram](https://github.com/Maryam-Amir00/GUI_PROJECT_SPELL_CHECKER/blob/main/Images/Workflow.png)
 
 ## Technical Architecture
 
