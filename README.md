@@ -10,6 +10,12 @@ A spell checker and word suggestion application built using Qt framework in C++.
 - Case-insensitive word processing
 - Interactive graphical user interface
 
+
+## Workflow
+The workflow diagram below explains the step-by-step process from user input to generating suggestions and verifying spelling.
+
+![Workflow Diagram](assets/images/workflow-diagram.png "Application Workflow")
+
 ## Technical Architecture
 
 ### Core Components
