@@ -38,7 +38,7 @@ The workflow diagram below explains the step-by-step process from user input to 
 ### Workflow Diagram
 The flowchart below illustrates how different components of the application interact to provide spell checking and word suggestions.
 
-![Flowchart](assets/images/flowchart.png "Flowchart of Technical Architecture")
+![Flowchart](https://github.com/Maryam-Amir00/GUI_PROJECT_SPELL_CHECKER/blob/main/Images/FlowChart.png)
 
 ## Data Structure: Trie
 
